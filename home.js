@@ -15,4 +15,5 @@ function primeNum (num){
 console.log(primeNum(10));
 
 console.log('hello');
+// apnr 
 
