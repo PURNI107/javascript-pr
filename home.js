@@ -13,3 +13,6 @@ function primeNum (num){
     return isPrime
 }
 console.log(primeNum(10));
+
+console.log('hello');
+
